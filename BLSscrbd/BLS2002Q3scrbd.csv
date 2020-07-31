@@ -1,0 +1,37 @@
+Area,Year,Qtr,Ownership,Industry,Establishment Count,Average employment (3mo.),Average Weekly Wage
+U.S. TOTAL,2002,3,Total Covered,Total all industries,8124227.0,128122633.67,683.0
+U.S. TOTAL,2002,3,Federal Government,Total all industries,50935.0,2766748.0,1001.0
+U.S. TOTAL,2002,3,State Government,Total all industries,65315.0,4429909.67,761.0
+U.S. TOTAL,2002,3,Local Government,Total all industries,146869.0,12358659.33,651.0
+U.S. TOTAL,2002,3,Private,Total all industries,7861108.0,108567316.67,675.0
+U.S. TOTAL,2002,3,Private,Goods-producing,1308912.0,23936973.67,779.0
+U.S. TOTAL,2002,3,Private,Natural resources and mining,126509.0,1785041.0,593.0
+U.S. TOTAL,2002,3,Private,Construction,796238.0,6947980.0,733.0
+U.S. TOTAL,2002,3,Private,Manufacturing,386165.0,15203952.67,822.0
+U.S. TOTAL,2002,3,Private,Service-providing,6552196.0,84630343.0,646.0
+U.S. TOTAL,2002,3,Private,Trade transportation and utilities,1853652.0,25182000.67,608.0
+U.S. TOTAL,2002,3,Private,Information,149843.0,3324831.33,1038.0
+U.S. TOTAL,2002,3,Private,Financial activities,738677.0,7747089.33,936.0
+U.S. TOTAL,2002,3,Private,Professional and business services,1297819.0,16084998.33,799.0
+U.S. TOTAL,2002,3,Private,Education and health services,708312.0,15316003.67,653.0
+U.S. TOTAL,2002,3,Private,Leisure and hospitality,651151.0,12480340.67,298.0
+U.S. TOTAL,2002,3,Private,Other services,1021157.0,4285854.0,452.0
+U.S. TOTAL,2002,3,Private,Unclassified,131585.0,209225.0,637.0
+San Bernardino County California,2002,3,Total Covered,Total all industries,36931.0,553340.0,606.0
+San Bernardino County California,2002,3,Federal Government,Total all industries,136.0,10490.0,949.0
+San Bernardino County California,2002,3,State Government,Total all industries,453.0,10272.33,850.0
+San Bernardino County California,2002,3,Local Government,Total all industries,802.0,78796.67,707.0
+San Bernardino County California,2002,3,Private,Total all industries,35540.0,453781.0,575.0
+San Bernardino County California,2002,3,Private,Goods-producing,5406.0,105940.0,670.0
+San Bernardino County California,2002,3,Private,Natural resources and mining,372.0,4927.0,528.0
+San Bernardino County California,2002,3,Private,Construction,2966.0,35843.67,696.0
+San Bernardino County California,2002,3,Private,Manufacturing,2068.0,65169.33,667.0
+San Bernardino County California,2002,3,Private,Service-providing,30134.0,347841.0,546.0
+San Bernardino County California,2002,3,Private,Trade transportation and utilities,6889.0,127917.33,587.0
+San Bernardino County California,2002,3,Private,Information,333.0,7412.33,734.0
+San Bernardino County California,2002,3,Private,Financial activities,2483.0,21961.33,758.0
+San Bernardino County California,2002,3,Private,Professional and business services,3493.0,60280.33,539.0
+San Bernardino County California,2002,3,Private,Education and health services,2923.0,59822.33,664.0
+San Bernardino County California,2002,3,Private,Leisure and hospitality,2564.0,47708.33,252.0
+San Bernardino County California,2002,3,Private,Other services,11343.0,22529.0,380.0
+San Bernardino County California,2002,3,Private,Unclassified,106.0,210.0,419.0

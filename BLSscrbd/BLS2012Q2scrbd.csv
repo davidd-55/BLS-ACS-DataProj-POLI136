@@ -1,0 +1,37 @@
+Area,Year,Qtr,Ownership,Industry,Establishment Count,Average employment (3mo.),Average Weekly Wage
+U.S. TOTAL,2012,2,Total Covered,Total all industries,9179368.0,132220309.33,902.0
+U.S. TOTAL,2012,2,Federal Government,Total all industries,65362.0,2826918.67,1380.0
+U.S. TOTAL,2012,2,State Government,Total all industries,66439.0,4533603.0,975.0
+U.S. TOTAL,2012,2,Local Government,Total all industries,164381.0,14081020.67,876.0
+U.S. TOTAL,2012,2,Private,Total all industries,8883186.0,110778767.0,890.0
+U.S. TOTAL,2012,2,Private,Goods-producing,1210629.0,19526228.33,1057.0
+U.S. TOTAL,2012,2,Private,Natural resources and mining,130195.0,2022570.33,995.0
+U.S. TOTAL,2012,2,Private,Construction,745894.0,5598243.33,965.0
+U.S. TOTAL,2012,2,Private,Manufacturing,334540.0,11905414.67,1111.0
+U.S. TOTAL,2012,2,Private,Service-providing,7672557.0,91252538.67,855.0
+U.S. TOTAL,2012,2,Private,Trade transportation and utilities,1879778.0,25090683.67,768.0
+U.S. TOTAL,2012,2,Private,Information,143767.0,2678341.0,1438.0
+U.S. TOTAL,2012,2,Private,Financial activities,808191.0,7491015.33,1319.0
+U.S. TOTAL,2012,2,Private,Professional and business services,1588009.0,17877874.67,1153.0
+U.S. TOTAL,2012,2,Private,Education and health services,927024.0,19392334.67,847.0
+U.S. TOTAL,2012,2,Private,Leisure and hospitality,767660.0,13982711.67,374.0
+U.S. TOTAL,2012,2,Private,Other services,1374639.0,4574252.67,566.0
+U.S. TOTAL,2012,2,Private,Unclassified,183489.0,165325.0,890.0
+San Bernardino County California,2012,2,Total Covered,Total all industries,53001.0,612710.0,784.0
+San Bernardino County California,2012,2,Federal Government,Total all industries,155.0,13803.33,1146.0
+San Bernardino County California,2012,2,State Government,Total all industries,461.0,10470.0,1209.0
+San Bernardino County California,2012,2,Local Government,Total all industries,863.0,87850.67,983.0
+San Bernardino County California,2012,2,Private,Total all industries,51522.0,500586.0,730.0
+San Bernardino County California,2012,2,Private,Goods-producing,4720.0,76336.0,917.0
+San Bernardino County California,2012,2,Private,Natural resources and mining,232.0,3324.67,704.0
+San Bernardino County California,2012,2,Private,Construction,2730.0,25792.67,1000.0
+San Bernardino County California,2012,2,Private,Manufacturing,1758.0,47218.67,888.0
+San Bernardino County California,2012,2,Private,Service-providing,46802.0,424250.0,697.0
+San Bernardino County California,2012,2,Private,Trade transportation and utilities,7737.0,156618.67,726.0
+San Bernardino County California,2012,2,Private,Information,306.0,5199.33,957.0
+San Bernardino County California,2012,2,Private,Financial activities,2534.0,21407.0,927.0
+San Bernardino County California,2012,2,Private,Professional and business services,4156.0,73718.33,700.0
+San Bernardino County California,2012,2,Private,Education and health services,3677.0,78585.67,947.0
+San Bernardino County California,2012,2,Private,Leisure and hospitality,3031.0,57095.0,312.0
+San Bernardino County California,2012,2,Private,Other services,23757.0,30394.33,408.0
+San Bernardino County California,2012,2,Private,Unclassified,1604.0,1231.67,663.0
